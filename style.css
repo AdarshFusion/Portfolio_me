@@ -274,8 +274,6 @@ body {
         0 0 25px #0ef;
 }
 
-
-
 .read:hover {
     box-shadow: 0 0 5px cyan,
         0 0 25px cyan,
@@ -413,7 +411,6 @@ section {
     content: "50%";
 }
 
-
 .progress-line span::before {
     content: "";
     position: absolute;
@@ -428,8 +425,6 @@ section {
     animation: showText 0.5s 1.5s linear forwards;
     opacity: 0;
 }
-
-
 
 @keyframes showText {
     100% {
@@ -628,7 +623,6 @@ section {
     border-radius: 50%;
 }
 
-
 .row:hover img {
     transform: scale(1.1);
 
@@ -693,8 +687,6 @@ section {
     color: #0ef;
 }
 
-
-
 .contact-icons i {
     display: inline-flex;
     justify-content: center;
@@ -712,7 +704,6 @@ section {
     opacity: 0;
     animation: slideLeft 1s ease forwards;
     animation-delay: calc(.2s * var(--i));
-
 }
 
 .contact-icons i:hover {
@@ -782,7 +773,6 @@ form textarea {
     position: fixed;
     bottom: 2.1rem;
     right: 2.1rem;
-
 }
 
 .top i {
@@ -792,64 +782,6 @@ form textarea {
     padding: 10px;
     border-radius: 0.5rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @keyframes slideRight {
     0% {
